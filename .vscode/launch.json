@@ -1,0 +1,135 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Login.dart",
+            "cwd": "ProjetosFlutter\\Login.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Login.dart (profile mode)",
+            "cwd": "ProjetosFlutter\\Login.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Login.dart (release mode)",
+            "cwd": "ProjetosFlutter\\Login.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Login.dart",
+            "cwd": "ProjetosFlutter - Copia\\Login.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Login.dart (profile mode)",
+            "cwd": "ProjetosFlutter - Copia\\Login.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Login.dart (release mode)",
+            "cwd": "ProjetosFlutter - Copia\\Login.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RP2X3O8",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3375335317-3942745461-719439914-1001\\$RP2X3O8",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RP2X3O8 (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3375335317-3942745461-719439914-1001\\$RP2X3O8",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RP2X3O8 (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3375335317-3942745461-719439914-1001\\$RP2X3O8",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_application_2",
+            "cwd": "ApiFlutter\\Dart\\flutter_application_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_application_2 (profile mode)",
+            "cwd": "ApiFlutter\\Dart\\flutter_application_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_application_2 (release mode)",
+            "cwd": "ApiFlutter\\Dart\\flutter_application_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_application_2",
+            "cwd": "ApiFlutter - Copia\\Dart\\flutter_application_2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_application_2 (profile mode)",
+            "cwd": "ApiFlutter - Copia\\Dart\\flutter_application_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_application_2 (release mode)",
+            "cwd": "ApiFlutter - Copia\\Dart\\flutter_application_2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter",
+            "cwd": "Users\\kaynn\\Downloads\\flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "login-dart",
+            "cwd": "Users\\kaynn\\Downloads\\login-dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "login-dart (profile mode)",
+            "cwd": "Users\\kaynn\\Downloads\\login-dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "login-dart (release mode)",
+            "cwd": "Users\\kaynn\\Downloads\\login-dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
