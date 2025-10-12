@@ -1,12 +1,24 @@
 import 'package:flutter/material.dart';
-import 'authentication_service.dart';
-import 'home_screen.dart';
+import 'home_screen.dart'; 
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
 
   @override
   State<LoginScreen> createState() => _LoginScreenState();
+}
+
+enum UserType { none, cidadao, empresa, municipio }
+
+class AuthenticationService {
+  Future<UserType> login(String username, String password, UserType userType) async {
+    // Dummy authentication logic for demonstration
+    await Future.delayed(const Duration(seconds: 1));
+    if (username == 'user' && password == 'pass') {
+      return userType;
+    }
+    return UserType.none;
+  }
 }
 
 class _LoginScreenState extends State<LoginScreen> {
@@ -30,6 +42,7 @@ class _LoginScreenState extends State<LoginScreen> {
     setState(() {
       _isLoading = false;
     });
+
 
     if (result != UserType.none) {
       Navigator.pushReplacement(
