@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'authentication_service.dart';
+import 'login_screen.dart';
+import 'home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,10 +11,12 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: Text('Tela de Login'),
+    return MaterialApp(
+      title: 'Integra',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
       ),
+      home: const MainScreen()
     );
   }
 }

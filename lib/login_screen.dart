@@ -45,7 +45,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
 
     if (result != UserType.none) {
-      Navigator.pushReplacement(
+     Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => HomeScreen(userType: result)),
       );
